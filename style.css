@@ -1,0 +1,74 @@
+body {
+  background-color: pink;
+  margin: auto;
+  text-align: center;
+  padding: 30px;
+}
+
+.main {
+  margin: auto;
+  width: 800px;
+  background-color: white;
+  padding: 50px 50px;
+}
+
+.second {
+  background-color: rgba(115, 195, 204);
+  background-color: hsl(124, 112, 150);
+  margin: auto;
+  width: 800px;
+  padding: 7px;
+}
+
+ol {
+  padding-left: 300px;
+  padding-right: 300px;
+}
+
+ul {
+  padding-left: 260px;
+  padding-right: 260px;
+}
+
+a {
+  color: black;
+  background-color: #ffba4a;
+  text-decoration: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+}
+
+.clickhere {
+  font-size: 14px;
+}
+
+#button {
+  background-color: rgba(115, 195, 204);
+  border: none;
+  border-radius: 4px;
+  padding: 8px 13px;
+}
+
+#button:hover {
+  border: 1px solid black;
+}
+
+p.funfact {
+  color: #f59700;
+}
+
+h1 {
+  font-family: 'Suez One', serif;
+}
+
+h2 {
+  font-family: 'Molengo', sans-serif;
+}
+
+h3 {
+  font-family: 'Molengo', sans-serif;
+}
+
+p,ol {
+  font-family: 'Abel', sans-serif;
+}
